@@ -3,7 +3,7 @@
 int Jeeva;
 void main()
 {
-    do while(1)
+    while(1)
     {
     Mohan:
     clrscr();
